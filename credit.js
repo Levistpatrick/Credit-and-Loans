@@ -62,4 +62,5 @@ console.log(ayp(0.15,4))
 console.log(ayp(0.22,12))
 console.log(ayp(0.22,4))
 
-console.log(payCreditCard(3,570,15.45,210))
+console.log(payCreditCard(3570-840,0.1545,210));
+console.log(payLoan(3570-840,0.1899,210,0))
